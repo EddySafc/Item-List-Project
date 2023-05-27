@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NativeProject",
-    "slug": "NativeProject",
+    "name": "Item-List-Tutorial",
+    "slug": "Item-List-Tutorial",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
